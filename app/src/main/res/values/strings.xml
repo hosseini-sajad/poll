@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Poll</string>
+    <string name="title_home">Home</string>
+    <string name="title_add">Add</string>
+    <string name="title_person">Person</string>
+    <string name="poll">Poll</string>
+</resources>
